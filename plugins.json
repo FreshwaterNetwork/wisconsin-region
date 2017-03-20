@@ -1,10 +1,6 @@
 {
   "plugins": [
-    {
-  	  "repo": "umr-floodplain",
-  	  "name": "umr-floodplain",
-  	  "org": "FreshwaterNetwork"
-    },
+    
 		{
 			"repo": "regional-planning",
 			"name": "regional-planning",
