@@ -1,8 +1,8 @@
 {
   "plugins": [
     {
-  	  "repo": "umr-floodplain",
-  	  "name": "umr-floodplain",
+  	  "repo": "wiApp",
+  	  "name": "wiApp",
   	  "org": "FreshwaterNetwork"
     },
 		{

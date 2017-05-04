@@ -70,9 +70,9 @@
             "description": "<p>Welcome to America's Great River region. There's lots of cool stuff to check out here.</p>",
             "plugins": [
 				{
-					"title": "UMR Floodplain Explorer",
-					"description": "The Upper Mississippi River Flodplain Explorer identifies floodplain units...",
-					"pluginName": "umr-floodplain"
+					"title": "WI Wetland Explorer",
+					"description": "WI Wetland Desc Text",
+					"pluginName": "wiApp"
 				}
             ]
       }
