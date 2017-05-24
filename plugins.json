@@ -6,8 +6,8 @@
   	  "org": "FreshwaterNetwork"
     },
 		{
-			"repo": "regional-planning",
-			"name": "regional-planning",
+			"repo": "wiApp",
+			"name": "wiApp",
             "ver": "a26cf79"
 		}
    ]
