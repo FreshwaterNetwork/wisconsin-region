@@ -67,12 +67,12 @@
    "identifyBlacklist": ["OBJECTID", "OBJECTID_1", "SHAPE", "Shape", "shape_Length", "shape_Area", "NumScen"],
     "launchpad": {
             "title": "",
-            "description": "<p>Welcome to America's Great River region. There's lots of cool stuff to check out here.</p>",
+            "description": "<p>Welcome to WI Wetland Region. There's lots of cool stuff to check out here.</p>",
             "plugins": [
 				{
-					"title": "UMR Floodplain Explorer",
-					"description": "The Upper Mississippi River Flodplain Explorer identifies floodplain units...",
-					"pluginName": "umr-floodplain"
+					"title": "Wetland Explorer",
+					"description": "This is Placeholder text for WI Wetland Explorer app",
+					"pluginName": "wiApp"
 				}
             ]
       }
