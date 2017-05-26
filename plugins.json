@@ -4,12 +4,17 @@
 	{
 		"repo": "regional-planning",
 		"name": "regional-planning",
-    "ver": "a26cf79"
+    		"ver": "a26cf79"
 	},
 	{
 		"repo":" wiApp",
 		"name": "wiApp",
-	 	  "org": "FreshwaterNetwork"
+	 	"org": "FreshwaterNetwork"
+	},
+	{
+		"repo": "wiApp",
+		"name": "wiApp",
+            	"ver": "a26cf79"
 	}
    ]
 }
