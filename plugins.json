@@ -8,8 +8,8 @@
 	},
 	{
 		"repo":" wiApp",
-		"name": "wiApp"
-
+		"name": "wiApp",
+	 	  "org": "FreshwaterNetwork"
 	}
    ]
 }
