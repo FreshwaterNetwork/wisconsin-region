@@ -7,14 +7,9 @@
     		"ver": "a26cf79"
 	},
 	{
-		"repo":" wiApp",
-		"name": "wiApp",
-	 	"org": "FreshwaterNetwork"
-	},
-	{
 		"repo": "wiApp",
 		"name": "wiApp",
-            	"ver": "a26cf79"
+	 	"org": "FreshwaterNetwork"
 	}
    ]
 }
