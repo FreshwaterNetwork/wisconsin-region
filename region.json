@@ -65,7 +65,7 @@
     },
    "identifyBlacklist": ["OBJECTID", "OBJECTID_1", "SHAPE", "Shape", "shape_Length", "shape_Area", "NumScen"],
     "launchpad": {
-            "title": "Wetlands and Watersheds Explorer",
+            "title": "Wetlands by Design: A Watershed Approach",
             "description": "<p>Welcome to Wetlands by Design: A Watershed Approach. There's lots of cool stuff to check out here.</p>",
             "plugins": [
 				{
