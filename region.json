@@ -1,7 +1,7 @@
 {
     "googleAnalyticsPropertyId": "7401895-38",
     "googleUrlShortenerApiKey": "AIzaSyDO_xBd3griGKuhlYBvv7jVN4Mt58Gl4iw",
-    "titleMain": { "text": "Wisconsin Wetland Explorer", "url": "http://coastalresilience.org/" },
+    "titleMain": { "text": "Wetlands by Design: A Watershed Approach", "url": "http://coastalresilience.org/" },
     "titleDetail": { "text": "", "url": "http://coastalresilience.org/geographies/new-york-and-connecticut" },
 	"headerLinks": [
 		{ "text": "TOUR", "url": "javascript:;", "elementId": "help-overlay-start"},
@@ -65,12 +65,12 @@
     },
    "identifyBlacklist": ["OBJECTID", "OBJECTID_1", "SHAPE", "Shape", "shape_Length", "shape_Area", "NumScen"],
     "launchpad": {
-            "title": "",
-            "description": "<p>Welcome to WI Wetland Explorer. There's lots of cool stuff to check out here.</p>",
+            "title": "Wetlands and Watersheds Explorer",
+            "description": "<p>Welcome to Wetlands by Design: A Watershed Approach. There's lots of cool stuff to check out here.</p>",
             "plugins": [
 				{
-					"title": "WI Wetland Explorer",
-					"description": "WI Wetland Desc Text",
+					"title": "Wetlands and Watersheds Explorer",
+					"description": "Wetlands and Watersheds Explorer Desc Text",
 					"pluginName": "wiApp"
 				}
             ]
