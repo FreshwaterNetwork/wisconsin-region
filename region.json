@@ -1,7 +1,7 @@
 {
     "googleAnalyticsPropertyId": "7401895-38",
     "googleUrlShortenerApiKey": "AIzaSyDO_xBd3griGKuhlYBvv7jVN4Mt58Gl4iw",
-    "titleMain": { "text": "Wetlands by Design: A Watershed Approach", "url": "http://coastalresilience.org/" },
+    "titleMain": { "text": "Wisconsin’s Waters, Wetlands, and Watersheds", "url": "http://coastalresilience.org/" },
     "titleDetail": { "text": "", "url": "http://coastalresilience.org/geographies/new-york-and-connecticut" },
 	"headerLinks": [
 		{ "text": "TOUR", "url": "javascript:;", "elementId": "help-overlay-start"},
@@ -65,11 +65,11 @@
     },
    "identifyBlacklist": ["OBJECTID", "OBJECTID_1", "SHAPE", "Shape", "shape_Length", "shape_Area", "NumScen"],
     "launchpad": {
-            "title": "Wetlands and Watersheds Explorer",
-            "description": "<p>Welcome to Wetlands by Design: A Watershed Approach. There's lots of cool stuff to check out here.</p>",
+            "title": "Wisconsin’s Waters, Wetlands, and Watersheds",
+            "description": "<p>Wisconsin’s waters and wetlands help our state thrive, benefiting people, fish, and wildlife. Explore the following mapping tools to better understand these important resources and guide decisions around protecting and restoring them.</p>",
             "plugins": [
 				{
-					"title": "Wetlands and Watersheds Explorer",
+					"title": "Wetlands by Design: A Watershed Approach",
 					"description": "Wetlands and Watersheds Explorer Desc Text",
 					"pluginName": "wiApp"
 				}
