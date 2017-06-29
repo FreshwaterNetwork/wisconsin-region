@@ -1,7 +1,7 @@
 {
     "googleAnalyticsPropertyId": "7401895-38",
     "googleUrlShortenerApiKey": "AIzaSyDO_xBd3griGKuhlYBvv7jVN4Mt58Gl4iw",
-    "titleMain": { "text": "Wetlands by Design: A Watershed Approach", "url": "http://coastalresilience.org/" },
+    "titleMain": { "text": "Wisconsin’s Waters, Wetlands, and Watersheds", "url": "http://coastalresilience.org/" },
     "titleDetail": { "text": "", "url": "http://coastalresilience.org/geographies/new-york-and-connecticut" },
 	"headerLinks": [
 		{ "text": "TOUR", "url": "javascript:;", "elementId": "help-overlay-start"},
@@ -26,10 +26,10 @@
             { "text": "Washington", "url": "http://maps.coastalresilience.org/pugetsound" }
     ],
     "initialExtent": [
-        -96.29,
-        41.50,
+        -102.00,
+        28.67,
         -83.00,
-        48.00
+        42.84
     ],
     "basemaps": [
 		{ "name": "Streets"            , "url": "http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer" },
@@ -65,12 +65,12 @@
     },
    "identifyBlacklist": ["OBJECTID", "OBJECTID_1", "SHAPE", "Shape", "shape_Length", "shape_Area", "NumScen"],
     "launchpad": {
-            "title": "Wetlands by Design: A Watershed Approach",
-            "description": "<p>Welcome to Wetlands by Design: A Watershed Approach. There's lots of cool stuff to check out here.</p>",
+            "title": "Wisconsin’s Waters, Wetlands, and Watersheds",
+            "description": "<p>Wisconsin’s waters and wetlands help our state thrive, benefiting people, fish, and wildlife. Explore the following mapping tools to better understand these important resources and guide decisions around protecting and restoring them.</p>",
             "plugins": [
 				{
-					"title": "Wetlands and Watersheds Explorer",
-					"description": "Wetlands and Watersheds Explorer Desc Text",
+					"title": "Wetlands by Design: A Watershed Approach",
+					"description": "Wetlands can improve water quality, reduce flood impacts, help streams flow, provide habitat, and offer many other services. But not all wetlands provide the same services to the same degree! To find the best sites to restore and protect—and the most promising watersheds to work in—check out the Wetlands and Watersheds Explorer.",
 					"pluginName": "wiApp"
 				}
             ]
