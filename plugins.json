@@ -1,5 +1,8 @@
 {
   "plugins": [
+	  {
+	  
+	  },
 	{
 		"repo": "wetlands-watershed-explorer",
 		"name": "wetlands-watershed-explorer",
