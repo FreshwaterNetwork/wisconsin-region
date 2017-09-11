@@ -1,10 +1,10 @@
 {
   "plugins": [
 	  {
- -		"repo": "regional-planning",
- -		"name": "regional-planning",
- -    		"ver": "a26cf79"
- -	},
+ 		"repo": "regional-planning",
+ 		"name": "regional-planning",
+     		"ver": "a26cf79"
+ 	},
 	{
 		"repo": "wetlands-watershed-explorer",
 		"name": "wetlands-watershed-explorer",
