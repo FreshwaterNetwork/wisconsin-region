@@ -50,7 +50,7 @@
 		"water_share"
     ],
     "print": {
-        "printServerUrl": "http://services.coastalresilience.org:6080/arcgis/rest/services/Utilities/PrintingTools/GPServer/Export%20Web%20Map%20Task",
+         "printServerUrl": "http://cumulus-web-adapter-1827610810.us-west-1.elb.amazonaws.com/arcgis/rest/services/nascience/ny_ExportWebMap/GPServer/Export%20Web%20Map",
 	"customPrintTemplatePrefix": "Letter ANSI A GeositeFramework",
 	"headerLogoPath": "http://maps.coastalresilience.org/network/img/TNCLogoPrimary_RGB2.jpg"
     },
