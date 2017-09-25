@@ -1,10 +1,10 @@
 {
-  "plugins": [
-	  
-	{
-		"repo": "wetlands-watershed-explorer",
-		"name": "wetlands-watershed-explorer",
-	 	"org": "FreshwaterNetwork"
-	}
-   ]
+    "plugins": [
+
+		{
+			"repo": "wetlands-watershed-explorer",
+		        "name": "wetlands-watershed-explorer",
+	 	        "org": "FreshwaterNetwork"
+		}
+    ]
 }
