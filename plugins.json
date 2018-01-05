@@ -1,14 +1,14 @@
 {
   "plugins": [
-    {
-  	  "repo": "wiApp",
-  	  "name": "wiApp",
-  	  "org": "FreshwaterNetwork"
-    },
-		{
-			"repo": "wiApp",
-			"name": "wiApp",
-            "ver": "a26cf79"
-		}
+	  {
+ 		"repo": "regional-planning",
+ 		"name": "regional-planning"
+ 	},
+	  
+	{
+		"repo": "wetlands-watershed-explorer",
+		"name": "wetlands-watershed-explorer",
+	 	"org": "FreshwaterNetwork"
+	}
    ]
 }
