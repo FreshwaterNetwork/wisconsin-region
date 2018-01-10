@@ -49,6 +49,7 @@
         "secondary": "#81b94d",
     },
    "identifyBlacklist": ["OBJECTID", "OBJECTID_1", "SHAPE", "Shape", "shape_Length", "shape_Area", "NumScen"],
+   "identifyEnabled": true,
     "launchpad": {
             "title": "Wisconsin’s Waters, Wetlands, and Watersheds",
             "description": "<p>Wisconsin’s waters and wetlands help our state thrive, benefiting people, fish, and wildlife. Explore the following mapping tools to better understand these important resources and guide decisions around protecting and restoring them.</p>",
