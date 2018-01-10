@@ -9,7 +9,7 @@
         },
         "includeLayers": [
             {
-               "name": "Rivers",
+               "name": "Rivers and Streams",
 			   "includeAllLayers": true
 			},
 			{
