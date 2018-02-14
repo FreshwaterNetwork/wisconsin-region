@@ -10,6 +10,10 @@
 		"name": "wetlands-watershed-explorer",
 	 	"org": "FreshwaterNetwork"
 	},
-	
+	{
+ 		"repo": "AOCapp",
+ 		"name": "AOCapp",
+ 	 	"org": "FreshwaterNetwork"
+  	}
    ]
 }
