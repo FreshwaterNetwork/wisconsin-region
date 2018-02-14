@@ -11,9 +11,9 @@
 	 	"org": "FreshwaterNetwork"
 	},
 	{
- 		"repo": "AOCapp",
- 		"name": "AOCapp",
- 	 	"org": "FreshwaterNetwork"
-  	}
+		"repo": "AOCapp",
+		"name": "AOCapp",
+	 	"org": "FreshwaterNetwork"
+	}
    ]
 }
