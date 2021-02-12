@@ -11,6 +11,11 @@
 	 	"org": "FreshwaterNetwork"
 	},
 	{
+		"repo": "mukwonago-groundwater",
+		"name": "mukwonago-groundwater",
+	 	"org": "FreshwaterNetwork"
+	},
+	{
 		"repo": "AOCapp",
 		"name": "AOCapp",
 	 	"org": "FreshwaterNetwork"

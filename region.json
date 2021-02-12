@@ -63,6 +63,11 @@
 					"title": "Wildlife Recovery: Lower Green Bay & Fox River AOC",
  					"description": "There are multiple opportunities to restore wildlife habitat and populations in the Area of Concern and its watershed. Explore this tool to find where fish and wildlife habitat can be protected, restored, improved or created to best benefit those species and habitats impaired in the AOC.",
   					"pluginName": "AOCapp"
+  				},
+		                {
+					"title": "Protecting Groundwater Dependent Ecosystems: Decision Support for Well Placement in the Mukwonago Basin",
+ 					"description": "Groundwater dependent ecosystems (gde) are systems that depend on groundwater inputs to support their natural flora and fauna. These ecosystems can occur in wetlands, lakes and rivers. One rare gde is the fen, a wetland that depend mostly on groundwater inputs rather than surface water flows to support the wetland. The Mukwonago River Basin in southeast Wisconsin has several remaining fens that need careful protection. This tool is designed to help site high capacity groundwater wells in areas of the basin that protect a select group of important groundwater dependent ecosystems – fens, rivers and lakes – in the watershed. Impacts are reported in the drawdown experienced in fens or the depletion potential in rivers and lakes. The results presented are based off a groundwater model developed by the USGS, model documentation can be found here.",
+  					"pluginName": "mukwonago-groundwater"
   				}
             ]
       }
